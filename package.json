@@ -1,6 +1,6 @@
 {
   "name": "@tzwzx/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint shareable config",
   "license": "MIT",
   "main": "index.js",
@@ -12,7 +12,6 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-no-relative-import-paths": "^1.5.3",
     "eslint-plugin-perfectionist": "^2.5.0",
-    "eslint-plugin-playwright": "^0.20.0",
     "eslint-plugin-unused-imports": "^3.0.0"
   },
   "publishConfig": {
