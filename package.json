@@ -1,6 +1,6 @@
 {
   "name": "@tzwzx/eslint-config",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ESLint shareable config",
   "license": "MIT",
   "main": "index.js",
@@ -15,8 +15,7 @@
     "eslint-plugin-unused-imports": "^3.0.0"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "engines": {
     "node": "20.x",
