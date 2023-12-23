@@ -4,13 +4,8 @@ ESLint shareable config
 
 ## Installation
 
-```toml
-[install.scopes]
-"@tzwzx" = { token = "token", url = "https://npm.pkg.github.com" }
-```
-
 ```bash
-bun i --D @tzwzx/eslint-config
+bun add --D @tzwzx/eslint-config
 ```
 
 ## Usage
