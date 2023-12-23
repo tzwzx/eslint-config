@@ -5,7 +5,7 @@ ESLint shareable config
 ## Installation
 
 ```bash
-bun add --D @tzwzx/eslint-config
+npm install --save-dev @tzwzx/eslint-config
 ```
 
 ## Usage
