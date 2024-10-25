@@ -1,17 +1,17 @@
 {
   "name": "@tzwzx/eslint-config",
-  "version": "1.0.38",
+  "version": "1.0.39",
   "description": "ESLint shareable config",
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "8.8.0",
-    "@typescript-eslint/parser": "8.8.0",
-    "eslint": "9.11.1",
-    "eslint-config-next": "14.2.14",
+    "@typescript-eslint/eslint-plugin": "8.11.0",
+    "@typescript-eslint/parser": "8.11.0",
+    "eslint": "9.13.0",
+    "eslint-config-next": "15.0.1",
     "eslint-config-prettier": "9.1.0",
-    "eslint-plugin-no-relative-import-paths": "1.5.3",
-    "eslint-plugin-perfectionist": "3.8.0",
+    "eslint-plugin-no-relative-import-paths": "1.5.5",
+    "eslint-plugin-perfectionist": "3.9.1",
     "eslint-plugin-unused-imports": "4.1.4"
   },
   "publishConfig": {
